@@ -1,2 +1,3 @@
 1. The OS is like a Messenger. The Interface between the user and the hardware. The OS relays messages from the user through the command line to the correct drive that responds. The OS sends these messages and organizes them. 
 2. Monitor system health and functionality. The OS Monitors to make sure that hardware is working correctly. And the OS alerts the user if there is an error. It will also inform the user for any malware or viruses that have entered the system.
+3. Provide structure for data management. The OS organizes the information given by the user. Sorting the info into the correct locations. Allowing the user to pull up files, and manipulate them if needed (move, copy, rename, delete, and many others)
